@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<types>
+
+  <type id="volunteerHandbook">
+    <name>Open</name>
+    <href>https://drive.google.com/file/d/1kBxol8CMq-r4Sx_Oa3W5NDEToBcolMm3</href>
+  </type>
+
+  <type id="tipsToRemember">
+    <name>Open</name>
+    <href>https://drive.google.com/file/d/1VafntsE6hAKnA48_SkICowAt6Mn3tZBT</href>
+  </type>
+
+  <type id="directoryOfResources">
+    <name>Clothing and&#47;or Food</name>
+    <href>https://drive.google.com/file/d/1iU5f1_h_vwPF4NtiYNtzxjFLtOxTJyx0</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Counselling</name>
+    <href>https://drive.google.com/file/d/1DJEEyhEgSI8APxSRzs_C0zbcAvOCYOh8</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Domestic Violence</name>
+    <href>https://drive.google.com/file/d/11codKMCeZ4I6E642EYHQh4jMP3YoCpeA</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Emergency Shelter</name>
+    <href>https://drive.google.com/file/d/1-O1xQpoeMDMSFi-J-kesL-Ou41InX3E-</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Financial</name>
+    <href>https://drive.google.com/file/d/1w36JwmPjXYd_KLq5MXOGfROlL7g1NG6T</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Funeral Homes</name>
+    <href>https://drive.google.com/file/d/1qEUETMibO15pWfD4EMsFv6x7Rr6vn5lF</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>Grief Support for Adults and Families</name>
+    <href>https://drive.google.com/file/d/1uNnQDvlp7zo2ZtzlPkWkKZGTatm3f1AY</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Hospitals</name>
+    <href>https://drive.google.com/file/d/19ECmaYUELMWbopqg9NmPlriehStkZjcf</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Housing</name>
+    <href>https://drive.google.com/file/d/1yJkBUwOu4ttnJwPyuVG8qe7iUlfjk5s0</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Legal</name>
+    <href>https://drive.google.com/file/d/19N483rUoQMN2L9AKEyLW3M6HtClUAMwt</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Mental Health&#47;Addictions</name>
+    <href>https://drive.google.com/file/d/1L-P4lazJBD5h_MBmiJC_RKfQC0AGk2Zd</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Pet Loss</name>
+    <href>https://drive.google.com/file/d/1gexHfbu28i12REa249PllcO-KoBj1tsb</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>School Supports</name>
+    <href>https://drive.google.com/file/d/1HckbDR0qlEUrNMVtme40MwKZ61D46FB0</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Sexual Assault</name>
+    <href>https://drive.google.com/file/d/1fM7JN696Zf8gwh0JLPD-giuk2bSo9ax7</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Suicide</name>
+    <href>https://drive.google.com/file/d/1EKIRHXfCkp4lFY40BXtijcna67H6-QSf</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Victim Service Locations</name>
+    <href>https://drive.google.com/file/d/132o0dt7h1yyHuXYU6CCNOyhK8TSSUOCR</href>
+  </type>
+   <type id="directoryOfResources">
+    <name>Victim Specific</name>
+    <href>https://drive.google.com/file/d/1n4-qLpfmof18n02RDKl8ctyyk19J-UPS</href>
+  </type>
+
+</types>

@@ -1,0 +1,59 @@
+div[id^="dialog"]>div{
+    color: yellow;
+    font-size: large;
+    font: Courier New;
+
+    text-align: center;
+    vertical-align: text-top;
+}
+
+#aboutUs {
+    width: auto;
+    border: 2px solid #252525;
+    display: inline-block;
+    padding: 5px;
+}
+#aboutUs th{
+    text-align: right;
+    color: gold;
+    font-weight: heavy;
+}
+#aboutUs td{
+    text-align: left;
+}
+
+.close {
+    font-weight: bolder !important;
+    position: sticky !important;
+}
+
+.modal{
+    height: auto;
+    background-color: #1d1d1d;
+}
+.modalContent{
+    width: 50% !important;
+    left: 25% !important;
+    text-align: center !important;
+    padding: 10px;
+    overflow-y: auto !important;
+    background-color: black !important;
+    top: 0 !important;
+}
+.fullscreen{
+    height: 100%;
+    left: 0 !important;
+    width: 100% !important;
+    z-index: 1000;
+}
+
+#suggestionsFeedback{
+    font-weight: normal;
+    text-transform: normal;
+}
+
+/* #dialogPdf{
+    position: fixed !important;
+    display: inherit !important;
+    z-index: 9999 !important;
+} */

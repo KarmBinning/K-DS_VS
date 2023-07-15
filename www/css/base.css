@@ -1,0 +1,74 @@
+body{
+    height: unset !important;
+}
+
+header{
+    font-size: x-large;
+    color: gold !important;
+}
+
+[data-role="header"]{
+    text-align: center;
+    padding-top: 10px;
+    color: gold !important;
+}
+
+.bodyContent{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px 10px 0 10px;
+    vertical-align: middle;
+}
+
+.center{text-align: center}
+
+.hidden{display: none}
+
+.yellow{color:yellow}
+
+.ui-collapsible-content{
+    border-top-width: 1px !important;
+    padding: 0 10px 0 10px !important;
+}
+
+[data-role="navbar"]{
+    width: 100% !important;
+}
+
+[data-role="footer"]>[data-role="navbar"] a{
+    height: 25px !important;
+    border-top: inset grey !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    font-weight: 100 !important;
+    padding-top: 50px;
+}
+[data-role="footer"]>[data-role="navbar"] label{
+    font-size: xx-small;
+    position: relative;
+    word-break: normal;
+}
+
+[data-role="footer"] .ui-icon-home::after,
+[data-role="footer"] .ui-icon-phone::after,
+[data-role="footer"] .ui-icon-alert::after,
+[data-role="footer"] .ui-icon-user::after,
+[data-role="footer"] .ui-icon-edit::after{
+    background-color: transparent !important;
+    background-size: contain !important;
+}
+
+.ui-btn-active{
+    background-color: lime !important;
+}
+
+.ui-page { -webkit-backface-visibility: hidden; }
+
+.text-bold{
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.right{
+    float: right !important;
+}
